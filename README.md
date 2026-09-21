@@ -80,51 +80,6 @@ shivean@github:~$ cat /etc/stack
 ---
 
 ```console
-shivean@github:~$ ls -la ~/projects --sort=recent
-```
-
-<div align="center">
-
-<table>
-<tr><td>
-
-**`PdfTools`** &nbsp;·&nbsp; <sub>KOTLIN · PRIVATE</sub>
-
-An offline PDF toolkit for Android. Merge, split, OCR, watermark,
-encrypt, re-layout — **no network calls, no account, no upload.**
-Privacy isn't a setting in it; it's the architectural constraint.
-
-<sub>`PDFBox` `Jetpack Compose` `Hilt` `Room` `ML Kit`</sub>
-
-</td></tr>
-<tr><td>
-
-**`Insurance_Prediction_System`** &nbsp;·&nbsp; <sub>PYTHON · PUBLIC</sub>
-
-Prediction modelling with a separate [backend service](https://github.com/Shivean/IPS_backend).
-
-</td></tr>
-<tr><td>
-
-**`On-Demand-Service-Platform`** &nbsp;·&nbsp; <sub>TYPESCRIPT · PRIVATE</sub>
-
-Full-stack service marketplace.
-
-</td></tr>
-<tr><td>
-
-**`ExpenseTrackingSystem`** &nbsp;·&nbsp; <sub>JAVA · PUBLIC</sub>
-
-Desktop expense tracking with persistent storage.
-
-</td></tr>
-</table>
-
-</div>
-
----
-
-```console
 shivean@github:~$ ./activity --public-only
 ```
 
@@ -147,12 +102,6 @@ shivean@github:~$ ./activity --public-only
 
 <div align="center">
 
-```
-  ┌──────────────────────────────────────────────────┐
-  │   "no network calls, no account, no cloud"       │
-  │    — a design constraint, not a feature bullet   │
-  └──────────────────────────────────────────────────┘
-```
 
 [![](https://img.shields.io/badge/shivaram.me-0D1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://shivaram.me)
 [![](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/Shivean)
