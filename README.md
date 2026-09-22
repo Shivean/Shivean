@@ -43,10 +43,35 @@ shivean@github:~$ ./stats --include-private
 
 ```
 LANGUAGE DISTRIBUTION                              all 25 repos, by bytes
-<div align="center"> <table> <tr> <td align="center" width="70"> <img src="https://skillicons.dev/icons?i=ts" width="36" alt="TypeScript"> </td> <td width="150"><b>TypeScript</b></td> <td align="right" width="60"><b>41.9%</b></td> <td width="300"> <img src="https://progress-bar.dev/419/?width=300&color=3178C6&suffix=%20" height="8" alt="41.9%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=python" width="36" alt="Jupyter Notebook"> </td> <td><b>Jupyter Notebook</b></td> <td align="right"><b>24.6%</b></td> <td> <img src="https://progress-bar.dev/246/?width=300&color=F37626&suffix=%20" height="8" alt="24.6%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML"> </td> <td><b>HTML</b></td> <td align="right"><b>8.8%</b></td> <td> <img src="https://progress-bar.dev/88/?width=300&color=E34F26&suffix=%20" height="8" alt="8.8%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript"> </td> <td><b>JavaScript</b></td> <td align="right"><b>6.6%</b></td> <td> <img src="https://progress-bar.dev/66/?width=300&color=F7DF1E&suffix=%20" height="8" alt="6.6%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=kotlin" width="36" alt="Kotlin"> </td> <td><b>Kotlin</b></td> <td align="right"><b>5.1%</b></td> <td> <img src="https://progress-bar.dev/51/?width=300&color=7F52FF&suffix=%20" height="8" alt="5.1%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=c" width="36" alt="C"> </td> <td><b>C</b></td> <td align="right"><b>2.5%</b></td> <td> <img src="https://progress-bar.dev/25/?width=300&color=555555&suffix=%20" height="8" alt="2.5%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=dart" width="36" alt="Dart"> </td> <td><b>Dart</b></td> <td align="right"><b>2.1%</b></td> <td> <img src="https://progress-bar.dev/21/?width=300&color=0175C2&suffix=%20" height="8" alt="2.1%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=python" width="36" alt="Python"> </td> <td><b>Python</b></td> <td align="right"><b>2.0%</b></td> <td> <img src="https://progress-bar.dev/20/?width=300&color=3776AB&suffix=%20" height="8" alt="2.0%"> </td> </tr> </table> <br> <sub> <img src="https://skillicons.dev/icons?i=cpp,css,vim,java,cmake" height="24" alt="Other languages"> &nbsp; Other · <b>6.4%</b> </sub> </div>
-
-
----
+```
+<div align="center"> 
+ <table> 
+  <tr> 
+   <td align="center" width="70"> 
+    <img src="https://skillicons.dev/icons?i=ts" width="36" alt="TypeScript"> 
+   </td> <td width="150"><b>TypeScript</b>
+   </td> 
+   <td align="right" width="60"><b>41.9%</b>
+   </td> 
+   <td width="300"> 
+    <img src="https://progress-bar.dev/419/?width=300&color=3178C6&suffix=%20" height="8" alt="41.9%"> 
+   </td> 
+  </tr> 
+  <tr> 
+   <td align="center"> 
+    <img src="https://skillicons.dev/icons?i=python" width="36" alt="Jupyter Notebook"> 
+   </td> <td><b>Jupyter Notebook</b>
+   </td> 
+   <td align="right"><b>24.6%</b></td> 
+   <td> 
+    <img src="https://progress-bar.dev/246/?width=300&color=F37626&suffix=%20" height="8" alt="24.6%"> 
+   </td> 
+  </tr> 
+  <tr> 
+   <td align="center"> 
+    <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML"> 
+   </td> 
+   <td><b>HTML</b></td> <td align="right"><b>8.8%</b></td> <td> <img src="https://progress-bar.dev/88/?width=300&color=E34F26&suffix=%20" height="8" alt="8.8%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript"> </td> <td><b>JavaScript</b></td> <td align="right"><b>6.6%</b></td> <td> <img src="https://progress-bar.dev/66/?width=300&color=F7DF1E&suffix=%20" height="8" alt="6.6%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=kotlin" width="36" alt="Kotlin"> </td> <td><b>Kotlin</b></td> <td align="right"><b>5.1%</b></td> <td> <img src="https://progress-bar.dev/51/?width=300&color=7F52FF&suffix=%20" height="8" alt="5.1%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=c" width="36" alt="C"> </td> <td><b>C</b></td> <td align="right"><b>2.5%</b></td> <td> <img src="https://progress-bar.dev/25/?width=300&color=555555&suffix=%20" height="8" alt="2.5%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=dart" width="36" alt="Dart"> </td> <td><b>Dart</b></td> <td align="right"><b>2.1%</b></td> <td> <img src="https://progress-bar.dev/21/?width=300&color=0175C2&suffix=%20" height="8" alt="2.1%"> </td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=python" width="36" alt="Python"> </td> <td><b>Python</b></td> <td align="right"><b>2.0%</b></td> <td> <img src="https://progress-bar.dev/20/?width=300&color=3776AB&suffix=%20" height="8" alt="2.0%"> </td> </tr> </table> <br> <sub> <img src="https://skillicons.dev/icons?i=cpp,css,vim,java,cmake" height="24" alt="Other languages"> &nbsp; Other · <b>6.4%</b> </sub> </div>
 
 ```console
 shivean@github:~$ cat /etc/stack
