@@ -29,130 +29,74 @@ shivean@github:~$ ./stats --include-private
 
 <table>
 <tr>
-<td align="center"><b>548</b><br/><sub>CONTRIBUTIONS<br/>THIS YEAR</sub></td>
-<td align="center"><b>97.8%</b><br/><sub>IN PRIVATE<br/>REPOS</sub></td>
-<td align="center"><b>25</b><br/><sub>REPOSITORIES</sub></td>
-<td align="center"><b>7.8 MB</b><br/><sub>SOURCE<br/>CHECKED IN</sub></td>
-<td align="center"><b>14</b><br/><sub>LANGUAGES<br/>SHIPPED</sub></td>
+<td align="center"><b>570</b><br/><sub>CONTRIBUTIONS<br/>THIS YEAR</sub></td>
+<td align="center"><b>96.1%</b><br/><sub>IN PRIVATE<br/>REPOS</sub></td>
+<td align="center"><b>29</b><br/><sub>REPOSITORIES</sub></td>
+<td align="center"><b>8.5 MB</b><br/><sub>SOURCE<br/>CHECKED IN</sub></td>
+<td align="center"><b>21</b><br/><sub>LANGUAGES<br/>SHIPPED</sub></td>
 </tr>
 </table>
 
-<sub><i>18 of 25 repos are private — the cards below only see the other 7.</i></sub>
+<sub><i>20 of 29 repos are private — the cards below only see the other 9.</i></sub>
 
 </div>
 
 ```
-LANGUAGE DISTRIBUTION                              all 25 repos, by bytes
+LANGUAGE DISTRIBUTION                              all 29 repos, by bytes
 ```
 <div align="center">
     <table>
         <tr>
             <td width="45"><img src="https://skillicons.dev/icons?i=ts" width="32" /></td>
             <td width="150"><b>TypeScript</b></td>
-            <td width="55" align="right"><b>41.9%</b></td>
-            <td width="300">
-                <table>
-                    <tr>
-                        <td bgcolor="#3178C6" width="126">&nbsp;</td>
-                        <td bgcolor="#21262D" width="174">&nbsp;</td>
-                    </tr>
-                </table>
-            </td>
+            <td width="55" align="right"><b>38.5%</b></td>
+            <td width="300"><img src="assets/lang/typescript.svg" width="300" height="10" alt="38.5%" /></td>
         </tr>
         <tr>
-            <td><img src="https://skillicons.dev/icons?i=python" width="32" /></td>
-            <td><b>Jupyter Notebook</b></td>
-            <td align="right"><b>24.6%</b></td>
-            <td>
-                <table>
-                    <tr>
-                        <td bgcolor="#F37626" width="74">&nbsp;</td>
-                        <td bgcolor="#21262D" width="226">&nbsp;</td>
-                    </tr>
-                </table>
-            </td>
+            <td width="45"><img src="https://skillicons.dev/icons?i=python" width="32" /></td>
+            <td width="150"><b>Jupyter Notebook</b></td>
+            <td width="55" align="right"><b>22.6%</b></td>
+            <td width="300"><img src="assets/lang/jupyter.svg" width="300" height="10" alt="22.6%" /></td>
         </tr>
         <tr>
-            <td><img src="https://skillicons.dev/icons?i=html" width="32" /></td>
-            <td><b>HTML</b></td>
-            <td align="right"><b>8.8%</b></td>
-            <td>
-                <table>
-                    <tr>
-                        <td bgcolor="#E34F26" width="26">&nbsp;</td>
-                        <td bgcolor="#21262D" width="274">&nbsp;</td>
-                    </tr>
-                </table>
-            </td>
+            <td width="45"><img src="https://skillicons.dev/icons?i=kotlin" width="32" /></td>
+            <td width="150"><b>Kotlin</b></td>
+            <td width="55" align="right"><b>12.6%</b></td>
+            <td width="300"><img src="assets/lang/kotlin.svg" width="300" height="10" alt="12.6%" /></td>
         </tr>
         <tr>
-            <td><img src="https://skillicons.dev/icons?i=js" width="32" /></td>
-            <td><b>JavaScript</b></td>
-            <td align="right"><b>6.6%</b></td>
-            <td>
-                <table>
-                    <tr>
-                        <td bgcolor="#F7DF1E" width="20">&nbsp;</td>
-                        <td bgcolor="#21262D" width="280">&nbsp;</td>
-                    </tr>
-                </table>
-            </td>
+            <td width="45"><img src="https://skillicons.dev/icons?i=html" width="32" /></td>
+            <td width="150"><b>HTML</b></td>
+            <td width="55" align="right"><b>8.4%</b></td>
+            <td width="300"><img src="assets/lang/html.svg" width="300" height="10" alt="8.4%" /></td>
         </tr>
         <tr>
-            <td><img src="https://skillicons.dev/icons?i=kotlin" width="32" /></td>
-            <td><b>Kotlin</b></td>
-            <td align="right"><b>5.1%</b></td>
-            <td>
-                <table>
-                    <tr>
-                        <td bgcolor="#7F52FF" width="15">&nbsp;</td>
-                        <td bgcolor="#21262D" width="285">&nbsp;</td>
-                    </tr>
-                </table>
-            </td>
+            <td width="45"><img src="https://skillicons.dev/icons?i=js" width="32" /></td>
+            <td width="150"><b>JavaScript</b></td>
+            <td width="55" align="right"><b>6.1%</b></td>
+            <td width="300"><img src="assets/lang/javascript.svg" width="300" height="10" alt="6.1%" /></td>
         </tr>
         <tr>
-            <td><img src="https://skillicons.dev/icons?i=c" width="32" /></td>
-            <td><b>C</b></td>
-            <td align="right"><b>2.5%</b></td>
-            <td>
-                <table>
-                    <tr>
-                        <td bgcolor="#A8B9CC" width="8">&nbsp;</td>
-                        <td bgcolor="#21262D" width="292">&nbsp;</td>
-                    </tr>
-                </table>
-            </td>
+            <td width="45"><img src="https://skillicons.dev/icons?i=c" width="32" /></td>
+            <td width="150"><b>C</b></td>
+            <td width="55" align="right"><b>2.3%</b></td>
+            <td width="300"><img src="assets/lang/c.svg" width="300" height="10" alt="2.3%" /></td>
         </tr>
         <tr>
-            <td><img src="https://skillicons.dev/icons?i=dart" width="32" /></td>
-            <td><b>Dart</b></td>
-            <td align="right"><b>2.1%</b></td>
-            <td>
-                <table>
-                    <tr>
-                        <td bgcolor="#0175C2" width="6">&nbsp;</td>
-                        <td bgcolor="#21262D" width="294">&nbsp;</td>
-                    </tr>
-                </table>
-            </td>
+            <td width="45"><img src="https://skillicons.dev/icons?i=dart" width="32" /></td>
+            <td width="150"><b>Dart</b></td>
+            <td width="55" align="right"><b>1.9%</b></td>
+            <td width="300"><img src="assets/lang/dart.svg" width="300" height="10" alt="1.9%" /></td>
         </tr>
         <tr>
-            <td><img src="https://skillicons.dev/icons?i=py" width="32" /></td>
-            <td><b>Python</b></td>
-            <td align="right"><b>2.0%</b></td>
-            <td>
-                <table>
-                    <tr>
-                        <td bgcolor="#3776AB" width="6">&nbsp;</td>
-                        <td bgcolor="#21262D" width="294">&nbsp;</td>
-                    </tr>
-                </table>
-            </td>
+            <td width="45"><img src="https://skillicons.dev/icons?i=py" width="32" /></td>
+            <td width="150"><b>Python</b></td>
+            <td width="55" align="right"><b>1.9%</b></td>
+            <td width="300"><img src="assets/lang/python.svg" width="300" height="10" alt="1.9%" /></td>
         </tr>
     </table>
     <p>
-        <sub> + C++ · CSS · Vim · Java · VB.NET · CMake &nbsp; <b>6.4%</b> </sub>
+        <sub> + C++ · CSS · Vim Script · Java · VB.NET · CMake · Shell · 8 more &nbsp; <b>5.8%</b> </sub>
     </p>
 </div>
 
